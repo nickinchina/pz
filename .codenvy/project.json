@@ -1,0 +1,1 @@
+{"builders":{"default":"maven"},"runners":{"configs":{"recommend":{"variables":{},"ram":256,"options":{}}},"default":"system:/java/standalone/db/postgresql"},"description":"pz","type":"maven","attributes":{"language":["java"]}}
